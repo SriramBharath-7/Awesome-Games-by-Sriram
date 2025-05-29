@@ -1,3 +1,9 @@
+<h1 align="center">🐍 Classic Snake Game in Python</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/FQ4S81L.gif" alt="Snake Game" width="400"/>
+</p>
+
 # 🐍 Classic Snake Game
 
 A fun, beginner-friendly **Snake game** made using Python's built-in Turtle module. Eat food, grow your snake, and try not to crash!
