@@ -1,7 +1,8 @@
 <h1 align="center">🐍 Classic Snake Game in Python</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/FQ4S81L.gif" alt="Snake Game" width="400"/>
+  <img width="446" alt="Snake" src="https://github.com/user-attachments/assets/477ce90e-37d1-4a00-b6d4-380427be2b55" />
+
 </p>
 
 # 🐍 Classic Snake Game
